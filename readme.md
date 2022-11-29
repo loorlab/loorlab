@@ -26,7 +26,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://www.loorlab.com/wp-content/uploads/2022/10/2_Logos_Loorlab_color-18.svg" alt="Logo" width="80" height="80">
+    <img src="https://www.loorlab.com/wp-content/uploads/2022/10/2_Logos_Loorlab_color-18.svg" alt="Logo" width="1920" height="500">
   </a>
 
   <h3 align="center">LOOR Lab</h3>
