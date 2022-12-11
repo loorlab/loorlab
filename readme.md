@@ -35,13 +35,12 @@
     <br />
     <br />
     <a href="#">Website</a>
-    ·
+    |
     <a href="#">Email</a>
-    ·
+    |
     <a href="#">Gist</a>
   </p>
 </div>
-
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -65,7 +64,7 @@ Use the `BLANK_README.md` to get started.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@loorlab](https://twitter.com/loorlab) - email@example.com
+Your Name - [@loorlab](https://twitter.com/loorlab) 
 
 GitHub: [https://github.com/your_username/repo_name](https://github.com/loorlab)
 
@@ -104,7 +103,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://linkedin.com/in/othneildrew](https://www.linkedin.com/company/loor-lab/
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
