@@ -22,7 +22,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://www.loorlab.com/">
     <img src="https://www.loorlab.com/wp-content/uploads/2022/10/2_Logos_Loorlab_color-18.svg" alt="Logo" width="1920" height="500">
   </a>
   <h3 align="center">LOOR Lab</h3>
@@ -34,11 +34,11 @@
     <a href="#"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="#">View Demo</a>
+    <a href="#">Website</a>
     ·
-    <a href="#">Report Bug</a>
+    <a href="#">Email</a>
     ·
-    <a href="#">Request Feature</a>
+    <a href="#">Gist</a>
   </p>
 </div>
 
@@ -67,7 +67,7 @@ Use the `BLANK_README.md` to get started.
 
 Your Name - [@loorlab](https://twitter.com/loorlab) - email@example.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+GitHub: [https://github.com/your_username/repo_name](https://github.com/loorlab)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
