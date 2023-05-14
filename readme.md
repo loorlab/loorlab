@@ -31,12 +31,10 @@
     Web Development
     WordPress 
     <br />
-    <a href="#"><strong>Explore the docs »</strong></a>
+    <a href="https://www.loorlab.com/"><strong>www.loorlab.com</strong></a>
     <br />
     <br />
-    <a href="#">Website</a>
-    |
-    <a href="#">Email</a>
+    <a href="mailto:info@loorlab.com">Email</a>
     |
     <a href="#">Gist</a>
   </p>
