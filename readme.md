@@ -26,17 +26,11 @@
     <img src="https://www.loorlab.com/wp-content/uploads/2022/10/2_Logos_Loorlab_color-18.svg" alt="Logo" width="1920" height="500">
   </a>
   <h3 align="center">LOOR Lab</h3>
-  <p align="center">
-    UX/UI
-    Web Development
-    WordPress 
-    <br />
+  <p align="center">Web engineering and creative experiences lab.<br />
     <a href="https://www.loorlab.com/"><strong>www.loorlab.com</strong></a>
     <br />
     <br />
-    <a href="mailto:info@loorlab.com">Email</a>
-    |
-    <a href="#">Gist</a>
+    <a href="mailto:info@loorlab.com">Email</a>    |
   </p>
 </div>
 
@@ -52,7 +46,7 @@
 <!-- CONTACT -->
 ## Contact
 
-@loorlab - [@loorlab](https://twitter.com/loorlab) 
+@loorlab - [@loorlab](https://x.com/loorlab) 
 
 GitHub: [https://github.com/loorlab](https://github.com/loorlab)
 
